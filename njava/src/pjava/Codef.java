@@ -1,9 +1,10 @@
+package pjava;
 
-public class Hello {
+public class Codef {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("hey pragsghj");
+		System.out.println("hello frndsghjjh");
 	}
 
 }
